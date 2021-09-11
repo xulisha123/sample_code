@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spi-a/spi-a.iml" filepath="$PROJECT_DIR$/spi-a/spi-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spi-b/spi-b.iml" filepath="$PROJECT_DIR$/spi-b/spi-b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spi-c/spi-c.iml" filepath="$PROJECT_DIR$/spi-c/spi-c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spi-common/spi-common.iml" filepath="$PROJECT_DIR$/spi-common/spi-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spi-parent.iml" filepath="$PROJECT_DIR$/spi-parent.iml" />
+    </modules>
+  </component>
+</project>
